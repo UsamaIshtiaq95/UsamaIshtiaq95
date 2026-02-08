@@ -1,5 +1,5 @@
 # 💫 About Me:
-SOftware  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently working on Back End API Development<br>🚀 Frontend: MVC, Angular | Backend: .Net Core API<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing<br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications
+Software  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently working on Back End API Development<br>🚀 Frontend: MVC, Angular | Backend: .Net Core API<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing<br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications
 
 
 ## 🌐 Socials:
