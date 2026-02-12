@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently working on Back End API Development<br>🚀 Frontend: MVC, Angular, JavaScript <br> Backend: .Net Core API<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing (PIAIC) <br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications  
+Software  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently working on Back End API Development<br>🚀 Frontend: MVC, Angular, JavaScript <br>🖥️⚙️ Backend: .Net Core API<br>🤝 Open Source Contributor<br>🧠 Learning Generative AI @ Presidential Initiative for Artificial Intelligence and Computing (PIAIC) <br>🎯 Always exploring cutting-edge tech and building innovative and scalable web applications  
 
 
 ## 🌐 Socials:
@@ -23,7 +23,7 @@ Software  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently wor
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
-### Backend
+# Backend
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Web API](https://img.shields.io/badge/.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
