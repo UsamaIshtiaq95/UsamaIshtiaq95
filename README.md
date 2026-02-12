@@ -45,6 +45,4 @@ Software  Engineer | Aspiring Dot Net Developer<br><br>👨‍💻 Currently wor
 ### AI & Language Tools
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Optimus1995&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
